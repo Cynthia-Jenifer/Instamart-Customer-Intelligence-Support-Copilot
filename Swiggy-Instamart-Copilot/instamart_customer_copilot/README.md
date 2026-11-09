@@ -1,4 +1,4 @@
-# Customer Intelligence & Support Copilot — Teaching Kit
+# Customer Intelligence & Support Copilot 
 
 ## Overview
 
